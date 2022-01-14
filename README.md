@@ -1,5 +1,19 @@
 # `web3-chat-app-react-native`
 
+Description :
+
+chat application based on based on the blockchain `ITrust-Chat`
+
+- Application of the P2P principle in your design.
+- Messages within the application are encrypted from end to end.
+
+
+Requirements
+
+-NodeJS 
+-Visual Studio Code 
+-Android Studio
+
 🚴‍♂️ Run your App:
 
 IMPORTANT: 
